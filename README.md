@@ -4,3 +4,4 @@ Day 2: Tip Calculator
 Day 3: Adventure typing game
 Day 4: Rock Paper Scissors game
 Day 5: Secure Password Generator
+Day 6: Basic function, basic while loop
