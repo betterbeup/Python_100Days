@@ -29,7 +29,6 @@ while True:
         if possible_code_word in partial_dictionary_of_code_words:
             sound_alarm = True
             list_of_possible_code_words.append(possible_code_word + ': True')
-            print(list_of_possible_code_words)
         else:
             sound_alarm = False
     except queue.Empty:
